@@ -2,6 +2,8 @@
 
 Amit Misra, Allen Kim, John Kahan, Juan M. Lavista Ferres
 
+Please contact bbdata@microsoft.com for questions.
+
 Microsoft Introduction and Purpose
 We are publishing this dataset we developed as part of our efforts with Microsoft’s Airband Initiative to help close the rural broadband gap. The data is to be used for the purpose of analyzing, understanding, improving, or addressing problems related to broadband access.  
 
@@ -14,6 +16,13 @@ Getting these numbers right is vitally important. This data is used by federal, 
 ![broadbandmap.png](/assets/broadbandmap.png)
 
  
+# Data table
+Data contained in the  data table includes counties in the United States
+- ST: is the 2 letter abbreviation of states in the United States https://www.iso.org/obp/ui/#iso:code:3166:US
+- COUNTY ID: 4 to 5 digit code used to represent the county (last 3 digits) and the state (first digit or first 2 digits) https://www.census.gov/geographies/reference-files.html
+- BROADBAND AVAILABILITY PER FCC: percent of people per county with access to fixed terrestrial broadband at speeds of 25 Mbps/3 Mbps as of the end of 2017 https://www.fcc.gov/document/broadband-deployment-report-digital-divide-narrowing-substantially-0
+- BROADBAND USAGE: percent of people per county that use the internet at broadband speeds based on the methodology explained above. Data is from November 2019.
+
 Suggested data sets that can be used in combination with this data:
 - US county boundaries data set: https://catalog.data.gov/dataset/tiger-line-shapefile-2017-nation-u-s-current-county-and-equivalent-national-shapefile 
 
