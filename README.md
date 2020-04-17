@@ -50,3 +50,5 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+The data in the broadband_data.csv file is licensed under the Open Use of Data Agreement v1.0. Data sources include Microsoft’s Rural Broadband initiative and the Federal Communications Commission’s 2019 Broadband Deployment Report.
