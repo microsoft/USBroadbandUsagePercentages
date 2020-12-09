@@ -18,10 +18,10 @@ Figure 1: Map of the United States by county with indicators of broadband availa
 # Broadband Usage Percentages Zip Code Dataset: A Differentially Private Data Release
 The initial dataset released in April 2020 provided broadband usage percentages at a US county-level.  In December 2020, we are adding a zip code-level view of this same information. The data is to be used for the purpose of analyzing, understanding, improving, or addressing problems related to broadband access.
 As mentioned in the April 2020 release, the Broadband Usage Percentages Dataset is derived from aggregated and anonymized data Microsoft collects as part of our ongoing work to improve software and service performance and security. Given the zip code-level dataset provides a more granular view of broadband usage percentages by households, we took the additional step to ensure data privacy guarantees by utilizing differential privacy, a technique that adds noise to the data aggregations, preventing leakage about the presence of specific individuals in the dataset. We implemented differential privacy through the SmartNoise platform, a first-of-its-kind open source platform for differential privacy co-developed by Microsoft and the OpenDP initiative led by Harvard.  We estimate broadband usage by combining privatized data from multiple Microsoft services.
-As Differential Privacy adds noise to protect privacy, the noise added to zip codes with a small number of households can impact utility. To ensure transparency into how zip codes with different population magnitudes are affected, we have included error range data.
+As Differential Privacy adds noise to protect privacy, the noise added to zip codes with a small number of households can impact utility. To ensure transparency into how zip codes with different population magnitudes are affected, we have included error range data. To read more about how differential privacy has been applied to this data, read the [Broadband usage differential privacy paper](./assets/Broadband_usage_differential_privacy_paper.pdf)
 
 ![broadbandusagezipcode.png](/assets/broadbandusagezipcode.png)
-Figure 2: Map of the United States by postal codes with indicators of broadband usage
+Figure 2: Map of the United States by zip codes with indicators of broadband usage
 
 # Data table
 Data contained in the  data table includes counties in the United States
