@@ -1,5 +1,5 @@
 # United States Broadband Usage Percentages Dataset
-John Kahan - Vice President, Chief Data Analytics Officer
+John Kahan - Vice President, Chief Data Analytics Officer |
 Juan Lavista Ferres - Chief Scientist, Microsoft AI for Good Research Lab
 
 Please contact bbdata@microsoft.com for questions.
