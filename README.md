@@ -2,7 +2,7 @@
 John Kahan - Vice President, Chief Data Analytics Officer |
 Juan Lavista Ferres - Chief Scientist, Microsoft AI for Good Research Lab
 
-Please contact bbdata@microsoft.com for questions.
+Please contact bb_data@microsoft.com for questions.
 
 Microsoft Introduction and Purpose
 We are publishing datasets we developed as part of our efforts with Microsoft’s Airband Initiative to help close the rural broadband gap. The data can be used for the purpose of analyzing, understanding, improving, or addressing problems related to broadband access.
