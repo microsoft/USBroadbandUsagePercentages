@@ -4,12 +4,12 @@ Juan Lavista Ferres - Chief Scientist, Microsoft AI for Good Research Lab
 
 Please contact bb_data@microsoft.com for questions.
 
-Microsoft Introduction and Purpose
+# Microsoft Introduction and Purpose
 We are publishing datasets we developed as part of our efforts with Microsoft’s Airband Initiative to help close the rural broadband gap. The data can be used for the purpose of analyzing, understanding, improving, or addressing problems related to broadband access.
 
 The datasets consist of data derived from anonymized data Microsoft collects as part of our ongoing work to improve the performance and security of our software and services. The data does not include any PII information including IP Address. We also suppress any location with less than 20 devices. Other than the aggregated data shared in this data table, no other data is stored during this process. We estimate broadband usage by combining data from multiple Microsoft services. The data from these services are combined with the number of households per county and zip code[1]. Every time a device receives an update or connects to a Microsoft service, we can estimate the throughput speed of a machine. We know the size of the package sent to the computer, and we know the total time of the download. We also determine zip code level location data via reverse IP. Therefore, we can count the number of devices that have connected to the internet at broadband speed per each zip code based on the FCC’s definition of broadband that is 25mbps per download[2]. Using this method, we estimate that ~120.4 million people in the United States are not using the internet at broadband speeds.
 
-Background
+# Background
 Every day our world becomes a little more digital. But reaping the benefits of this digital world – pursuing new educational opportunities through distance learning, feeding the world through precision agriculture, growing a small business by leveraging the cloud, and accessing better healthcare through telemedicine – is only possible for those with a broadband connection, which is especially apparent now as more people are staying home due to the COVID-19 pandemic. Based on the Fourteenth Broadband Deployment Report from the Federal Communications Commission (FCC)[4], broadband is not available to at least 14.5 million people, 11.3 million of whom live in this country’s rural areas. Getting these numbers right is vitally important. This data is used by federal, state, and local agencies to decide where to target public funds dedicated to closing this broadband gap. That means millions of Americans already lacking access to broadband have been made invisible, substantially decreasing the likelihood of additional broadband funding or much needed broadband service. We are publishing this data today to allow others to use it to develop solutions to improving broadband access or addressing problems with broadband access.
 
 ![broadbandmap.png](/assets/broadbandmap.png)
