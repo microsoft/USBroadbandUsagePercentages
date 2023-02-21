@@ -1,21 +1,3 @@
-Data is to be used only for analysis purposes related to broadband mapping,,,,
-For questions contact bbdata@microsoft.com,,,,
-,,,,
-Broadband availability in the United States based on the FCC,,,,
-Fourteenth Broadband Deployment Report: https://www.fcc.gov/reports-research/reports/broadband-progress-reports/fourteenth-broadband-deployment-report,,,,
-Form 477 data as of December 2019,,,,
-,,,,
-Broadband* usage in the United States based on Microsoft data,,,,
-Data for October 2020,,,,
-* Download speed benchmark of 25Mbps,,,,
-,,,,
-Field list,Notes,,,
-ST,State abbreviation,,,
-COUNTY ID,FIPS Code,,,
-COUNTY NAME,Full county name,,,
-BROADBAND AVAILABILITY PER FCC,FCC broadband availability data from Form 477,,,
-BROADBAND USAGE,Broadband usage based on Microsoft data for October 2020,,,
-,,,,
 ST,COUNTY ID,COUNTY NAME, BROADBAND AVAILABILITY PER FCC , BROADBAND USAGE 
 AL,1001,Autauga County,0.8057,0.391
 AL,1003,Baldwin County,0.8362,0.452
