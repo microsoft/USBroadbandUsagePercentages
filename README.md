@@ -23,7 +23,7 @@ As Differential Privacy adds noise to protect privacy, the noise added to zip co
 ![broadbandusagezipcode.png](/assets/broadbandusagezipcode.png)
 Figure 2: Map of the United States by zip codes with indicators of broadband usage
 
-# Data table
+# Data Table
 Data contained in the  data table includes counties in the United States
 - ST: is the 2 letter abbreviation of states in the United States https://www.iso.org/obp/ui/#iso:code:3166:US
 - COUNTY ID: 4 to 5 digit code used to represent the county (last 3 digits) and the state (first digit or first 2 digits) https://www.census.gov/geographies/reference-files.html
